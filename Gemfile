@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+gem 'minitest'
+
 gem 'bcrypt'
 
 gem 'coffee-script-source', '1.8.0'
